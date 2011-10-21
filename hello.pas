@@ -6,6 +6,8 @@ const
 begin
 
     if  samrin_babo = 'hernad' then
-       writeln('hello babo');
+       writeln('hello, I am Samra Husremovic')
+    else
+       writeln('hello from neka druga Samra');  
 
 end.
