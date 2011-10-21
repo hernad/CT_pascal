@@ -1,7 +1,11 @@
 program hello;
 
+const
+   samrin_babo: String = 'hernad';
+
 begin
 
-    writeln('hello world');
+    if  samrin_babo = 'hernad' then
+       writeln('hello babo');
 
 end.
